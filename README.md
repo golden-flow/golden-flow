@@ -1,3 +1,5 @@
+**:bar_chart: WakaTime Weekly Metrics**
+
 <!--START_SECTION:waka-->
 
 ```text
